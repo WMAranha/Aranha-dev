@@ -3,7 +3,7 @@
 
 # 👋 Oi pessoal, meu nome é **Wesley Aranha!** 🕷️ 🕸️ 
 
- - 💼 Em transição de carreira para a área de Dados
+ - 💼 Engenheiro de Dados na Artefact
  - 🎓 Formado em Engenharia Metalúrgica - UFRJ
  - 💻 Aprendendo cada vez mais sobre o mundo da __TECNOLOGIA!__ ❤️ *Python e SQL*
  - 🏊‍♂️ Natação é o meu hobby favorito!
