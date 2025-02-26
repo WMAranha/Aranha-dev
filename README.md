@@ -20,8 +20,8 @@
 ___
 <p align="center">
 <a href="https://github.com/Aranha-dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aranha-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aranha-dev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WMAranha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WMAranha&layout=compact&langs_count=8&theme=algolia"/>
 </a></p>
 
 ___
@@ -32,7 +32,7 @@ ___
 <br>
 
 ## Contato:
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aranha-dev) 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyaranha) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wesleyaranha94@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Aranha_dev)
 
